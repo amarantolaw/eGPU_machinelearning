@@ -1,4 +1,4 @@
-# eGPU_machinelearning
+# eGPU Machine Learning On MacBook Pro OS X 10.13.1
 
 
 GPU 
